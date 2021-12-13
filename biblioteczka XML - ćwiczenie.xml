@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<book>
+		<autor>Beata Błaszczyk</autor>
+		<tytul>"English 4 IT"</tytul>
+		<rok>2017</rok>
+	</book>
+	<book>
+		<autor>Ben Forta</autor>
+		<tytul>"SQL w mgnieniu oka"</tytul>
+		<rok>2016</rok>
+	</book>
+	<book>
+		<autor>Robert C.Martin</autor>
+		<tytul>"Czysty kod. Podręcznik dobrego programisty"</tytul>
+		<rok>2017</rok>
+	</book>
+	<book>
+		<autor>Kennet S.Rubin</autor>
+		<tytul>"SCRUM. Praktyczny przewodnik po najpopularniejszej metodyce Agile"</tytul>
+		<rok>2015</rok>
+	</book>
+</library>
+
+<!--  
+Treść zadania
+Korzystając z dowolnego notatnika (Notepad, Notepad ++, Sublime Text, itp.) przygotuj dokument XML, który będzie opisywał domową biblioteczkę. Biblioteczka powinna zawierać 4 książki. Każda z książek powinna zawierać autora (tag: autor), tytuł (tag: tytul) i rok wydania (tag: rok): 
+
+"English 4 IT" Beata Błaszczyk, 2017
+"SQL w mgnieniu oka" Ben Forta, 2016
+"Czysty kod. Podręcznik dobrego programisty" Robert C.Martin, 2017
+"SCRUM. Praktyczny przewodnik po najpopularniejszej metodyce Agile" Kennet S.Rubin, 2015
+-->
+
+<!--
+formatowanie składni kodu Edit->Line->Reindent
+-->

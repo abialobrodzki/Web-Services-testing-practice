@@ -1,0 +1,26 @@
+{
+  "library": {
+    "book": [
+      {
+        "autor": "Beata Błaszczyk",
+        "tytul": "\"English 4 IT\"",
+        "rok": 2017
+      },
+      {
+        "autor": "Ben Forta",
+        "tytul": "\"SQL w mgnieniu oka\"",
+        "rok": 2016
+      },
+      {
+        "autor": "Robert C.Martin",
+        "tytul": "\"Czysty kod. Podręcznik dobrego programisty\"",
+        "rok": 2017
+      },
+      {
+        "autor": "Kennet S.Rubin",
+        "tytul": "\"SCRUM. Praktyczny przewodnik po najpopularniejszej metodyce Agile\"",
+        "rok": 2015
+      }
+    ]
+  }
+}
