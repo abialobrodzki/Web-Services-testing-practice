@@ -25,6 +25,25 @@
 			"response": []
 		},
 		{
+			"name": "Full request (zajęcia)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://swapi.dev/api",
+					"protocol": "https",
+					"host": [
+						"swapi",
+						"dev"
+					],
+					"path": [
+						"api"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "Request all films SW",
 			"request": {
 				"method": "GET",

@@ -1,0 +1,62 @@
+{
+	"id": "d47bc5da-75db-449f-9ed3-c6b7ec1eddb5",
+	"name": "Star Wars",
+	"timestamp": "2022-01-08T09:02:56.698Z",
+	"collection_id": "0-14b41c22-e4b8-4d37-a66a-2bdeb5b379dc",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "a1e4ab4a-6c52-454e-877e-a16954566e2c",
+			"name": "SW starship id=9",
+			"url": "https://swapi.dev/api/starships/9/",
+			"time": 46,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				46
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "647f2c0e-1b96-4db7-9172-4834490b3147",
+			"name": "SW film with starship id=9",
+			"url": "https://swapi.dev/api/films/1/",
+			"time": 51,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				51
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 97,
+	"collection": {
+		"requests": [
+			{
+				"id": "a1e4ab4a-6c52-454e-877e-a16954566e2c",
+				"method": "GET"
+			},
+			{
+				"id": "647f2c0e-1b96-4db7-9172-4834490b3147",
+				"method": "GET"
+			}
+		]
+	}
+}
